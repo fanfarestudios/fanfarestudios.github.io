@@ -7,6 +7,7 @@ Karlstr. 51\
 Deutschland
 
 **Kontakt:**
+
 E-Mail: fanfare.gamestudios@gmail.com
 
 Telefon: +491771544870
