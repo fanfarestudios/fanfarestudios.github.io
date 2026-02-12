@@ -10,7 +10,7 @@ This agreement and its terms ("Terms of Use") govern the relationship between Fa
 
 By using the service, you confirm that you are at least 13 years old. If you are between the age of 13 and 18, your legal guardian has reviewed and agrees to these terms.
 
-Fanfare reserves the right to change, remove or add to any part of these Terms of Use and the Privacy Policy at any time by posting the amended terms on the Fanfare Services. You can access the latest version of these terms at https://bit.ly/fanfareprivacy and https://bit.ly/fanfareterms. You accept such changes by continuing to use the Service. Your license to use the Service will terminate immediately if you disagree with the current version of our Terms of Use and / or the Fanfare Privacy Policy. This means that you must stop accessing and / or using the Service.
+Fanfare reserves the right to change, remove or add to any part of these Terms of Use and the Privacy Policy at any time by posting the amended terms on the Fanfare Services. You can access the latest version of these terms at https://fanfarestudios.github.io/privacy and https://fanfarestudios.github.io/terms. You accept such changes by continuing to use the Service. Your license to use the Service will terminate immediately if you disagree with the current version of our Terms of Use and / or the Fanfare Privacy Policy. This means that you must stop accessing and / or using the Service.
 
 **2. Access and use of the service**
 
@@ -157,14 +157,12 @@ Fanfare may transfer these Terms of Use and / or the Fanfare Privacy Policy or a
 
 **7.6. Hints**
 
- 
-
 We will notify you by e-mail or through other means of communication provided to us. Your communications to us are only valid if they are addressed in writing to the following address:
 
-Fanfare Studios
-Reto Stuber
-Karlstr. 51
-D-76133 Karlsruhe
+Fanfare Studios\
+Reto Stuber\
+Karlstr. 51\
+D-76133 Karlsruhe\
 Germany
 
  
