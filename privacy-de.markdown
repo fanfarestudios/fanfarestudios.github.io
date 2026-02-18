@@ -72,11 +72,9 @@ Unsere Dienste können auch Werbelösungen Dritter enthalten. Wenn Sie Werbung i
  
 **Anbieter**
 Da wir keinen Zugang zu und keine Kontrolle über Dritte haben, erstreckt sich unsere Datenschutzrichtlinie nicht auf die Verwendung von Tools Dritter. Wir sind nicht für die Datenerhebungspraktiken von Drittanbietern verantwortlich und empfehlen Ihnen, die Datenschutzrichtlinien zu lesen, um mehr über die Verwendung von Cookies und anderen Technologien zu erfahren. Nachfolgend finden Sie eine Liste der Partner unserer Dienste, einschließlich Informationen zu deren Datenschutzrichtlinien:
-* Unity Analytics: https://unity3d.com/legal/privacy-policy
-* Google Analytics: https://policies.google.com/privacy
-* Apple: https://www.apple.com/legal/privacy/en-ww/        
-* Google Play: https://policies.google.com/technologies/partner-sites https://policies.google.com/privacy
-* IronSource: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+* Google (Analytics & Werbung): https://policies.google.com/privacy
+* Google Partner: https://policies.google.com/technologies/partner-sites
 
 **Verwendung von Informationen**
  
@@ -126,4 +124,4 @@ Karlstr. 51\
 76133 Karlsruhe\
 Deutschland
  
-Letzte Aktualisierung: 09.01.2026
+Letzte Aktualisierung: 18.02.2026
