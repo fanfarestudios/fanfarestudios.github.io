@@ -85,13 +85,8 @@ Our services may also include third-party advertising solutions. When you watch 
 
 Because we have no access to or control over third parties, our privacy policy does not cover the use of third-party tools. We are not responsible for third-party data collection practices and we recommend that you read the privacy policy to learn more about the use of cookies and other technologies. Below is a list of partners within our services, including information about their privacy policy:
 
-
-
-* Unity Analytics: https://unity3d.com/legal/privacy-policy
-* Google Analytics: https://policies.google.com/privacy
-* Apple: https://www.apple.com/legal/privacy/en-ww/        
-* Google Play: https://policies.google.com/technologies/partner-sites https://policies.google.com/privacy
-* IronSource: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+* Google (Analytics & Ads): https://policies.google.com/privacy
+* Google Partners: https://policies.google.com/technologies/partner-sites
 
 **Use of information**
 
