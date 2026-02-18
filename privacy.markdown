@@ -141,4 +141,4 @@ Karlstr. 51\
 76133 Karlsruhe\
 Germany
 
-Last update of this policy: 01/09/2026
+Last update of this policy: 02/18/2026
