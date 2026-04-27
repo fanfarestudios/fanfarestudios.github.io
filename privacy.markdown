@@ -24,6 +24,10 @@ E-Mail: fanfare.gamestudios@gmail.com
 
 The following sections describe how we may collect your personal information through our various services/offerings. Our primary goal of collecting personal information is to provide you with our services, create your account, contact you, improve our services or generate reports for internal use. We may store this information on our servers or servers of our affiliates.
 
+**International Data Transfers**
+
+Please be aware that our services are supported by infrastructure located in the United States. Your personal data, including account information, may be transferred to and maintained on servers located in the U.S. even if you are accessing our services from the European Union or other regions. We ensure that such transfers are conducted in compliance with applicable data protection laws, utilizing safeguards such as the EU-U.S. Data Privacy Framework or Standard Contractual Clauses to protect your information.
+
 **Visit our websites & web-services**
 
 When you visit our website directly, through a browser, or indirectly through our apps/games – this may include transparent web requests to our services – we may collect and store information such as your device’s IP address, operating system, access times, browser type, language settings, cookie data and referring website/store. This information may be used to troubleshoot issues, protect our servers or collectively analyze the use of our services. 
@@ -73,6 +77,13 @@ We, partners, or analytics service providers use technologies such as cookies, s
 
 **Third-party services**
 
+**Infrastructure and Database Providers**
+
+We utilize the following providers to store and manage your account data:
+
+* Google Firebase: Used for authentication, backend services, and application management. Data may be processed in U.S. data centers.
+* Neon DB: Used for serverless database management and storage of account-related data. Data may be processed in U.S. data centers.
+
 **Analytics**
 
 Our services may include third-party tracking tools from our service providers, for example Unity Analytics. These third parties may use cookies, SDKs and APIs in our services to collect and analyze user information, including information such as device ID, MAC address, IMEI, geo-location information (country specific) and IP address to provide their services under their respective Privacy Policy. We may use mobile analytics software to better understand the functionality of our mobile software on your device. This software may record information such as: how often you use the application, what events occur in the application, performance data, aggregated usage, and where the application was downloaded. We do not associate the information we store in the analytics software with personal information that you submit in our apps/games.
@@ -87,6 +98,7 @@ Because we have no access to or control over third parties, our privacy policy d
 
 * Google (Analytics & Ads): https://policies.google.com/privacy
 * Google Partners: https://policies.google.com/technologies/partner-sites
+* Neon DB: https://neon.tech/privacy
 
 **Use of information**
 
@@ -141,4 +153,4 @@ Karlstr. 51\
 76133 Karlsruhe\
 Germany
 
-Last update of this policy: 02/18/2026
+Last update of this policy: 04/27/2026
