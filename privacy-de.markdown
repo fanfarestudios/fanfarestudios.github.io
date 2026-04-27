@@ -21,7 +21,10 @@ E-Mail: fanfare.gamestudios@gmail.com
 **ERHEBUNG UND VERWENDUNG IHRER PERSÖNLICHEN DATEN**
  
 In den folgenden Abschnitten wird beschrieben, wie wir Ihre personenbezogenen Daten über unsere verschiedenen Dienste/Angebote erfassen können. Wir sammeln personenbezogene Daten in erster Linie, um Ihnen unsere Dienste zur Verfügung zu stellen, Ihr Konto zu erstellen, Sie zu kontaktieren, unsere Dienste zu verbessern oder Auswertungen für den internen Gebrauch zu erstellen. Wir können diese Informationen auf unseren Servern oder den Servern unserer Partnerunternehmen speichern.
- 
+
+**Übermittlung in Drittstaaten**
+
+Bitte beachten Sie, dass unsere Dienste durch eine Infrastruktur in den Vereinigten Staaten (USA) unterstützt werden. Ihre personenbezogenen Daten, einschließlich Kontoinformationen, können auf Servern in den USA übertragen und dort gespeichert werden, selbst wenn Sie von der Europäischen Union aus auf unsere Dienste zugreifen. Wir stellen sicher, dass solche Übermittlungen in Übereinstimmung mit den geltenden Datenschutzgesetzen erfolgen, indem wir Schutzmaßnahmen wie das EU-U.S. Data Privacy Framework oder Standardvertragsklauseln nutzen, um Ihre Daten zu schützen.
  
 **Besuch unserer Websites und Web-Dienste**
  
@@ -63,18 +66,29 @@ Wir können auch Informationen aus Ihrer Teilnahme an (1) Umfragen, (2) Wettbewe
 Wir, unsere Partner oder Anbieter von Analysediensten verwenden Technologien wie Cookies, Skripte und Tags, um den Computer oder das Gerät eines Benutzers zu identifizieren und Informationen über seinen Besuch zu verfolgen und zu speichern, wie z. B. seine Präferenzen oder seinen Benutzernamen und sein Passwort. Diese Informationen können mit Ihren persönlichen Daten, wie z. B. Ihrer Benutzer-ID, verknüpft werden. Dies geschieht, um die Qualität unserer Dienste zu verbessern, Empfehlungen auf Ihre Interessen zuzuschneiden und die Nutzung des Dienstes zu erleichtern. Sie können Cookies jederzeit deaktivieren, verlieren dann aber möglicherweise den Zugang zu bestimmten Funktionen der Dienste.
  
 **Dienste von Drittanbietern**
+
+**Infrastruktur- und Datenbankanbieter**
+
+Wir nutzen die folgenden Anbieter, um Ihre Kontodaten zu speichern und zu verwalten:
+
+* Google Firebase: Wird für Authentifizierung, Backend-Dienste und die Anwendungsverwaltung genutzt. Daten können in US-Rechenzentren verarbeitet werden.
+* Neon DB: Wird für das serverlose Datenbankmanagement und die Speicherung kontobezogener Daten verwendet. Daten können in US-Rechenzentren verarbeitet werden.
  
 **Analytik**
-Unsere Dienste können Tracking-Tools von Drittanbietern enthalten, z. B. Unity Analytics. Diese Drittanbieter können Cookies, SDKs und APIs in unseren Diensten verwenden, um Benutzerinformationen zu sammeln und zu analysieren, einschließlich Informationen wie Geräte-ID, MAC-Adresse, IMEI, geografische Standortinformationen (länderspezifisch) und IP-Adresse, um ihre Dienste gemäß ihrer jeweiligen Datenschutzrichtlinie bereitzustellen. Wir können mobile Analysesoftware verwenden, um die Funktionalität unserer mobilen Software auf Ihrem Gerät besser zu verstehen. Diese Software kann Informationen aufzeichnen, wie z. B.: wie oft Sie die Anwendung nutzen, welche Ereignisse in der Anwendung auftreten, Leistungsdaten, aggregierte Nutzung und wo die Anwendung heruntergeladen wurde. Wir verknüpfen die Informationen, die wir in der Analysesoftware speichern, nicht mit persönlichen Daten, die Sie in unseren Anwendungen/Spielen angeben.
+
+Unsere Dienste können Tracking-Tools von Drittanbietern enthalten, z. B. Google Analytics. Diese Drittanbieter können Cookies, SDKs und APIs in unseren Diensten verwenden, um Benutzerinformationen zu sammeln und zu analysieren, einschließlich Informationen wie Geräte-ID, MAC-Adresse, IMEI, geografische Standortinformationen (länderspezifisch) und IP-Adresse, um ihre Dienste gemäß ihrer jeweiligen Datenschutzrichtlinie bereitzustellen. Wir können mobile Analysesoftware verwenden, um die Funktionalität unserer mobilen Software auf Ihrem Gerät besser zu verstehen. Diese Software kann Informationen aufzeichnen, wie z. B.: wie oft Sie die Anwendung nutzen, welche Ereignisse in der Anwendung auftreten, Leistungsdaten, aggregierte Nutzung und wo die Anwendung heruntergeladen wurde. Wir verknüpfen die Informationen, die wir in der Analysesoftware speichern, nicht mit persönlichen Daten, die Sie in unseren Anwendungen/Spielen angeben.
  
 **Werbeanzeigen**
+
 Unsere Dienste können auch Werbelösungen Dritter enthalten. Wenn Sie Werbung in unseren Diensten oder denen unserer Partner ansehen, können wir Informationen wie den Werbeanbieter, die angesehene Werbung, die Anzahl der angesehenen Anzeigen, den Standort im Dienst und die Kennung Ihres Geräts erfassen, wenn Sie sich für personalisierte Werbung entschieden haben. Wir können auch Informationen über Ihre Handlungen im Zusammenhang mit der Werbung sammeln. Der Anbieter der Werbung kann zusätzliche Daten in Übereinstimmung mit seinen eigenen Datenschutzrichtlinien erfassen, wie unten aufgeführt.
  
 **Anbieter**
+
 Da wir keinen Zugang zu und keine Kontrolle über Dritte haben, erstreckt sich unsere Datenschutzrichtlinie nicht auf die Verwendung von Tools Dritter. Wir sind nicht für die Datenerhebungspraktiken von Drittanbietern verantwortlich und empfehlen Ihnen, die Datenschutzrichtlinien zu lesen, um mehr über die Verwendung von Cookies und anderen Technologien zu erfahren. Nachfolgend finden Sie eine Liste der Partner unserer Dienste, einschließlich Informationen zu deren Datenschutzrichtlinien:
 
 * Google (Analytics & Werbung): https://policies.google.com/privacy
 * Google Partner: https://policies.google.com/technologies/partner-sites
+* Neon DB: https://neon.tech/privacy
 
 **Verwendung von Informationen**
  
@@ -124,4 +138,4 @@ Karlstr. 51\
 76133 Karlsruhe\
 Deutschland
  
-Letzte Aktualisierung: 18.02.2026
+Letzte Aktualisierung: 27.04.2026
